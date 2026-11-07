@@ -1,8 +1,8 @@
-# VYRO
+# Luck TV
 
 Create. Share. Earn.
 
-VYRO ek video-sharing app hai (YouTube jaisa layout, apna design). Yeh pehla clickable prototype hai.
+Luck TV ek video-sharing app hai (YouTube jaisa layout, apna design). Yeh pehla clickable prototype hai.
 
 ## Abhi kya hai
 - 5 tabs: Home, Shorts, Create, Subs, You
@@ -11,6 +11,6 @@ VYRO ek video-sharing app hai (YouTube jaisa layout, apna design). Yeh pehla cli
 
 ## Aage
 - Accounts, video upload, backend
-- VYRO Studio (alag creator app)
+- Luck TV Studio (alag creator app)
 
 Note: earnings ka koi wada nahi, sirf asli revenue se hisaab hoga.

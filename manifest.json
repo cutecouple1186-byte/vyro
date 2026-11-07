@@ -1,6 +1,6 @@
 {
-  "name": "VYRO",
-  "short_name": "VYRO",
+  "name": "Luck TV",
+  "short_name": "Luck TV",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f0f0f",
