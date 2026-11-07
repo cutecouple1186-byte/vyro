@@ -1,6 +1,6 @@
 {
-  "name": "Luck TV",
-  "short_name": "Luck TV",
+  "name": "Luck Play",
+  "short_name": "Luck Play",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f0f0f",
